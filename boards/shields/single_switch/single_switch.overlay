@@ -8,7 +8,7 @@
         wakeup-source;
 
         input-gpios
-            = <&gpio0 7 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
+            = <&gpio0 11 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
             ;
     };
 };
